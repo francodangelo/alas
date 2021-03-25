@@ -123,7 +123,7 @@ $(function () {
 
     var parallaxSlider;
     var parallaxSliderOptions = {
-        speed: 1000,
+        speed: 2100,
         autoplay: true,
         parallax: true,
         loop: true,
